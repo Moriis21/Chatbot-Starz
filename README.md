@@ -1,10 +1,10 @@
-# STARZ Chatbot Prototype
+# STARZ Virtual Assistant
 
-Single page HTML prototype for a STARZ focused virtual assistant created by Morris L. Dorley Jr.
+Single page HTML implementation of a STARZ focused virtual assistant created by Morris L. Dorley Jr.
 
 ## Status
 
-Static prototype
+Static web application
 
 ## Key capabilities
 
