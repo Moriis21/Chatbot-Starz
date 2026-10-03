@@ -1,1 +1,34 @@
-The AI assistant created by Morris L. Dorley Jr is an interactive virtual assistant designed to provide information and assistance to users. Developed as part of a university project, this AI assistant utilizes natural language processing and machine learning algorithms to understand and respond to user inquiries across various topics. It aims to assist users with tasks, answer questions, and provide relevant information in a user-friendly manner. Key Features: 1. Natural Language Processing: The AI assistant can understand and interpret user queries in natural language. 2. Information Retrieval: It can provide accurate and relevant information on a wide range of topics. 3. Task Assistance: The AI assistant can assist users with tasks such as setting reminders, scheduling events, and more. 4. User Interaction: It engages with users in a conversational manner to enhance user experience. 5. Continuous Learning: The AI assistant is designed to continuously learn and improve its responses based on user interactions. Overall, the AI assistant by Morris L. Dorley Jr is a valuable tool that aims to enhance user productivity and provide a personalized virtual assistant experience.
+# STARZ Chatbot Prototype
+
+Single page HTML prototype for a STARZ focused virtual assistant created by Morris L. Dorley Jr.
+
+## Status
+
+Static prototype
+
+## Key capabilities
+
+- Self contained browser interface
+- No build step or package installation required
+
+## Technology
+
+- HTML, CSS, and JavaScript
+
+## Run locally
+
+Open `chatbotapplication.html` in a modern web browser. No package installation or build step is required.
+
+## Security
+
+- Keep credentials and production environment files out of version control.
+- Review authentication, authorization, database policies, and input validation before production use.
+
+## License
+
+No license file is currently included. All rights are reserved unless the repository owner states otherwise.
+
+## Maintainer
+
+Morris L. Dorley Jr, [@Moriis21](https://github.com/Moriis21)
+
